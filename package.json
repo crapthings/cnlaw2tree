@@ -1,0 +1,16 @@
+{
+  "name": "@crapthings/cnlaw2tree",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [],
+  "author": "crapthings",
+  "license": "ISC",
+  "dependencies": {
+    "indent2obj": "0.0.3",
+    "lodash": "^4.17.11"
+  }
+}
