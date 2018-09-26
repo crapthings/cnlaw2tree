@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "indent2obj": "0.0.3",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "traverse": "^0.6.6"
   }
 }

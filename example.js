@@ -1,8 +1,10 @@
 const fs = require('fs')
-const indent2obj = require('indent2obj')
 const tree = require('./')
 
-const nodes = tree(fs.readFileSync('./example.txt', { encoding: 'utf-8' }), { indentText: true })
+const files = fs.readFileSync('./example.txt', { encoding: 'utf-8' })
 
-fs.writeFileSync('./result.txt', nodes)
-fs.writeFileSync('./result.json', JSON.stringify(indent2obj(nodes), null, 2))
+const nodesToIndentText = tree(files, { indentText: true })
+const nodesToTree = tree(files)
+
+fs.writeFileSync('./result.txt', nodesToIndentText)
+fs.writeFileSync('./result.json', JSON.stringify(nodesToTree, null, 2))
