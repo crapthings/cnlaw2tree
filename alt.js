@@ -2,7 +2,6 @@ const _ = require('lodash')
 const indent2obj = require('indent2obj')
 
 module.exports = function (file, options = {}) {
-  const REGEX0 = /(^第[零一二三四五六七八九十百]+?[条])|(^（[零一二三四五六七八九十百]+?）)/
   const REGEX1 = /(^第[零一二三四五六七八九十百]+?[章节条])|(^（[零一二三四五六七八九十百]+?）)/
   const REGEX2 = /(^第[零一二三四五六七八九十百]+?([章节条]))/
 
@@ -10,7 +9,7 @@ module.exports = function (file, options = {}) {
     .split('\n')
     .reject(_.isEmpty)
     .map(node => _.trim(node.replace(/\s/g, '')))
-    .map(node => _.chain(node).split(REGEX0).reject(_.isEmpty).value())
+    .map(node => _.chain(node).split(REGEX1).reject(_.isEmpty).value())
     .flatten()
     .value()
 
@@ -32,6 +31,9 @@ module.exports = function (file, options = {}) {
 
       if (_.includes(['章', '节'], mark)) {
         startIndent = true
+        extraIndent = true
+      } else {
+        extraIndent = false
       }
 
       const markIdx = _.findLastIndex(nodeIndentPath, p => p === mark)
@@ -45,14 +47,14 @@ module.exports = function (file, options = {}) {
         nodeIndentPath = _.take(nodeIndentPath, markIdx + 1)
       }
 
-      nodes[nodeIdx] = '  '.repeat(nodeIndentPath.length) + node
+      nodes[nodeIdx] = '  '.repeat(extraIndent ? nodeIndentPath.length - 1 : nodeIndentPath.length) + node
     } else {
       if (/(^（)/.test(_.trim(nodes[nodeIdx - 2])) && /。$/.test(_.trim(node))) {
         nodeIndentPath = _.reject(nodeIndentPath, item => _.includes(item, '（）'))
       }
 
       if (startIndent) {
-        nodes[nodeIdx] = '  '.repeat(nodeIndentPath.length  + 1) + node
+        nodes[nodeIdx] = '  '.repeat(extraIndent ? nodeIndentPath.length: nodeIndentPath.length  + 1) + node
       }
     }
   })

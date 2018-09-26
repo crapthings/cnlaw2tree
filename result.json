@@ -33,103 +33,50 @@
   },
   {
     "name": "目录",
-    "children": []
-  },
-  {
-    "name": "第一章",
     "children": [
       {
-        "name": "总则",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "第二章",
-    "children": [
-      {
-        "name": "规划、标准、普查和监测",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "第三章",
-    "children": [
-      {
-        "name": "预防和保护",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "第四章",
-    "children": [
-      {
-        "name": "风险管控和修复",
+        "name": "第一章总则",
         "children": []
       },
       {
-        "name": "第一节",
+        "name": "第二章规划、标准、普查和监测",
+        "children": []
+      },
+      {
+        "name": "第三章预防和保护",
+        "children": []
+      },
+      {
+        "name": "第四章风险管控和修复",
         "children": [
           {
-            "name": "一般规定",
+            "name": "第一节一般规定",
+            "children": []
+          },
+          {
+            "name": "第二节农用地",
+            "children": []
+          },
+          {
+            "name": "第三节建设用地",
             "children": []
           }
         ]
       },
       {
-        "name": "第二节",
-        "children": [
-          {
-            "name": "农用地",
-            "children": []
-          }
-        ]
+        "name": "第五章保障和监督",
+        "children": []
       },
       {
-        "name": "第三节",
-        "children": [
-          {
-            "name": "建设用地",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "第五章",
-    "children": [
-      {
-        "name": "保障和监督",
+        "name": "第六章法律责任",
         "children": []
-      }
-    ]
-  },
-  {
-    "name": "第六章",
-    "children": [
+      },
       {
-        "name": "法律责任",
+        "name": "第七章附则",
         "children": []
-      }
-    ]
-  },
-  {
-    "name": "第七章",
-    "children": [
+      },
       {
-        "name": "附则",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "第一章",
-    "children": [
-      {
-        "name": "总则",
+        "name": "第一章总则",
         "children": [
           {
             "name": "第一条",
@@ -246,14 +193,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第二章",
-    "children": [
+      },
       {
-        "name": "规划、标准、普查和监测",
+        "name": "第二章规划、标准、普查和监测",
         "children": [
           {
             "name": "第十一条",
@@ -443,14 +385,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第三章",
-    "children": [
+      },
       {
-        "name": "预防和保护",
+        "name": "第三章预防和保护",
         "children": [
           {
             "name": "第十八条",
@@ -769,21 +706,12 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第四章",
-    "children": [
-      {
-        "name": "风险管控和修复",
-        "children": []
       },
       {
-        "name": "第一节",
+        "name": "第四章风险管控和修复",
         "children": [
           {
-            "name": "一般规定",
+            "name": "第一节一般规定",
             "children": [
               {
                 "name": "第三十五条",
@@ -993,14 +921,9 @@
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "第二节",
-        "children": [
+          },
           {
-            "name": "农用地",
+            "name": "第二节农用地",
             "children": [
               {
                 "name": "第四十九条",
@@ -1186,14 +1109,9 @@
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "第三节",
-        "children": [
+          },
           {
-            "name": "建设用地",
+            "name": "第三节建设用地",
             "children": [
               {
                 "name": "第五十八条",
@@ -1349,14 +1267,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第五章",
-    "children": [
+      },
       {
-        "name": "保障和监督",
+        "name": "第五章保障和监督",
         "children": [
           {
             "name": "第六十九条",
@@ -1588,14 +1501,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第六章",
-    "children": [
+      },
       {
-        "name": "法律责任",
+        "name": "第六章法律责任",
         "children": [
           {
             "name": "第八十五条",
@@ -1927,14 +1835,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "第七章",
-    "children": [
+      },
       {
-        "name": "附则",
+        "name": "第七章附则",
         "children": [
           {
             "name": "第九十九条",
