@@ -1,60 +1,88 @@
 [
   {
+    "__id": "mxyNdQUYJumaHrPadV3F3",
+    "order": 1,
     "_text": "中华人民共和国主席令第七号——中华人民共和国电子商务法",
     "children": []
   },
   {
+    "__id": "e60hvqLp5Tkk_uasyyrl8",
+    "order": 2,
     "_text": "中华人民共和国主席令",
     "children": []
   },
   {
+    "__id": "5LhE2DPlVALPR1huD731q",
+    "order": 3,
     "_text": "第七号",
     "children": []
   },
   {
+    "__id": "_uSqtYzpEqFV~mdiXARaf",
+    "order": 4,
     "_text": "《中华人民共和国电子商务法》已由中华人民共和国第十三届全国人民代表大会常务委员会第五次会议于2018年8月31日通过，现予公布，自2019年1月1日起施行。",
     "children": []
   },
   {
+    "__id": "VTsL6vKlzIsria4KPyL2D",
+    "order": 5,
     "_text": "中华人民共和国主席习近平",
     "children": []
   },
   {
+    "__id": "yXON6oOyxqKXqPHxFuOMB",
+    "order": 6,
     "_text": "2018年8月31日",
     "children": []
   },
   {
+    "__id": "vYBqoF2rWbYrRBiSo7xio",
+    "order": 7,
     "_text": "中华人民共和国电子商务法",
     "children": []
   },
   {
+    "__id": "Y6jMMQi32i01Du2Ysdhu1",
+    "order": 8,
     "_text": "（2018年8月31日第十三届全国人民代表大会常务委员会第五次会议通过）",
     "children": []
   },
   {
+    "__id": "NXBzmpRBUhozGqoLaT0oV",
+    "order": 9,
     "_text": "目录",
     "children": []
   },
   {
+    "__id": "jpNZsB_yElGoPgoDii3C9",
+    "order": 10,
     "mark": "第一章",
     "subject": "总则",
     "_text": "第一章总则",
     "children": []
   },
   {
+    "__id": "W6jQ0fVRA9buC_r4hCKhi",
+    "order": 11,
     "mark": "第二章",
     "subject": "电子商务经营者",
     "_text": "第二章电子商务经营者",
     "children": [
       {
+        "__parentId": "W6jQ0fVRA9buC_r4hCKhi",
         "parentMark": "第二章",
+        "__id": "uilqu4AtmOeLBrxrvPwa1",
+        "order": 12,
         "mark": "第一节",
         "subject": "一般规定",
         "_text": "第一节一般规定",
         "children": []
       },
       {
+        "__parentId": "W6jQ0fVRA9buC_r4hCKhi",
         "parentMark": "第二章",
+        "__id": "DMQls8o8HX3Dat_WMWo_9",
+        "order": 13,
         "mark": "第二节",
         "subject": "电子商务平台经营者",
         "_text": "第二节电子商务平台经营者",
@@ -63,133 +91,215 @@
     ]
   },
   {
+    "__id": "Rzd4FirYZ_G_ZH4V6gu_c",
+    "order": 14,
     "mark": "第三章",
     "subject": "电子商务合同的订立与履行",
     "_text": "第三章电子商务合同的订立与履行",
     "children": []
   },
   {
+    "__id": "ec6UhQJJ195wNuOfQzIO~",
+    "order": 15,
     "mark": "第四章",
     "subject": "电子商务争议解决",
     "_text": "第四章电子商务争议解决",
     "children": []
   },
   {
+    "__id": "gL5RYFPStLq2TVSWiWfeP",
+    "order": 16,
     "mark": "第五章",
     "subject": "电子商务促进",
     "_text": "第五章电子商务促进",
     "children": []
   },
   {
+    "__id": "1ymgT8g8rbFlcZ6kx9l9y",
+    "order": 17,
     "mark": "第六章",
     "subject": "法律责任",
     "_text": "第六章法律责任",
     "children": []
   },
   {
+    "__id": "V7VeDqQYVTyEXZTo6jC1w",
+    "order": 18,
     "mark": "第七章",
     "subject": "附则",
     "_text": "第七章附则",
     "children": []
   },
   {
+    "__id": "YWYZUxbB8blgtj~piCCq0",
+    "order": 19,
     "mark": "第一章",
     "subject": "总则",
     "_text": "第一章总则",
     "children": [
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "dKFOkzw3HiEENNL6VMp39",
+        "order": 20,
+        "mark": "第一条",
+        "subject": "",
         "_text": "第一条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "dKFOkzw3HiEENNL6VMp39",
+            "parentMark": "第一条",
+            "__id": "21uNLU06tXuIcVFNTTqsp",
+            "order": 21,
             "_text": "为了保障电子商务各方主体的合法权益，规范电子商务行为，维护市场秩序，促进电子商务持续健康发展，制定本法。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "8sh1UKQUrZ79z0LZ~g8t~",
+        "order": 22,
+        "mark": "第二条",
+        "subject": "",
         "_text": "第二条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "8sh1UKQUrZ79z0LZ~g8t~",
+            "parentMark": "第二条",
+            "__id": "qE4YYJDfaMtwFKg44YjsN",
+            "order": 23,
             "_text": "中华人民共和国境内的电子商务活动，适用本法。",
             "children": []
           },
           {
-            "parentMark": "第一章",
+            "__parentId": "8sh1UKQUrZ79z0LZ~g8t~",
+            "parentMark": "第二条",
+            "__id": "f3Hvi1tBUHmjzxbsbCweZ",
+            "order": 24,
             "_text": "本法所称电子商务，是指通过互联网等信息网络销售商品或者提供服务的经营活动。",
             "children": []
           },
           {
-            "parentMark": "第一章",
+            "__parentId": "8sh1UKQUrZ79z0LZ~g8t~",
+            "parentMark": "第二条",
+            "__id": "sAUBypxYRxcl9ppkxd2af",
+            "order": 25,
             "_text": "法律、行政法规对销售商品或者提供服务有规定的，适用其规定。金融类产品和服务，利用信息网络提供新闻信息、音视频节目、出版以及文化产品等内容方面的服务，不适用本法。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "NQe9O20uAad8sT6H_DnTI",
+        "order": 26,
+        "mark": "第三条",
+        "subject": "",
         "_text": "第三条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "NQe9O20uAad8sT6H_DnTI",
+            "parentMark": "第三条",
+            "__id": "5AzgHNUjJUhU78biSjsft",
+            "order": 27,
             "_text": "国家鼓励发展电子商务新业态，创新商业模式，促进电子商务技术研发和推广应用，推进电子商务诚信体系建设，营造有利于电子商务创新发展的市场环境，充分发挥电子商务在推动高质量发展、满足人民日益增长的美好生活需要、构建开放型经济方面的重要作用。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "yEY~Ky2GM8ycp55RGcPKq",
+        "order": 28,
+        "mark": "第四条",
+        "subject": "",
         "_text": "第四条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "yEY~Ky2GM8ycp55RGcPKq",
+            "parentMark": "第四条",
+            "__id": "cB~t70bX3LU5toLHvUcHq",
+            "order": 29,
             "_text": "国家平等对待线上线下商务活动，促进线上线下融合发展，各级人民政府和有关部门不得采取歧视性的政策措施，不得滥用行政权力排除、限制市场竞争。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "ke97Sc~5S5yjV1489vMat",
+        "order": 30,
+        "mark": "第五条",
+        "subject": "",
         "_text": "第五条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "ke97Sc~5S5yjV1489vMat",
+            "parentMark": "第五条",
+            "__id": "IZvFcgaXqaV6zmkrPtFOH",
+            "order": 31,
             "_text": "电子商务经营者从事经营活动，应当遵循自愿、平等、公平、诚信的原则，遵守法律和商业道德，公平参与市场竞争，履行消费者权益保护、环境保护、知识产权保护、网络安全与个人信息保护等方面的义务，承担产品和服务质量责任，接受政府和社会的监督。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "Sh12GRzZwAzhut44xAdO7",
+        "order": 32,
+        "mark": "第六条",
+        "subject": "",
         "_text": "第六条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "Sh12GRzZwAzhut44xAdO7",
+            "parentMark": "第六条",
+            "__id": "RI3QvTGMsU2kfe3VHUr~6",
+            "order": 33,
             "_text": "国务院有关部门按照职责分工负责电子商务发展促进、监督管理等工作。县级以上地方各级人民政府可以根据本行政区域的实际情况，确定本行政区域内电子商务的部门职责划分。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "HlXF7RA8RklFmk36ArxR1",
+        "order": 34,
+        "mark": "第七条",
+        "subject": "",
         "_text": "第七条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "HlXF7RA8RklFmk36ArxR1",
+            "parentMark": "第七条",
+            "__id": "IPW_9l8No9yITbbVqyyy7",
+            "order": 35,
             "_text": "国家建立符合电子商务特点的协同管理体系，推动形成有关部门、电子商务行业组织、电子商务经营者、消费者等共同参与的电子商务市场治理体系。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "YWYZUxbB8blgtj~piCCq0",
         "parentMark": "第一章",
+        "__id": "SYV0VHQBMVQWTedRu2nRI",
+        "order": 36,
+        "mark": "第八条",
+        "subject": "",
         "_text": "第八条",
         "children": [
           {
-            "parentMark": "第一章",
+            "__parentId": "SYV0VHQBMVQWTedRu2nRI",
+            "parentMark": "第八条",
+            "__id": "rAgxnzs2BgpxPiNDQ9Se9",
+            "order": 37,
             "_text": "电子商务行业组织按照本组织章程开展行业自律，建立健全行业规范，推动行业诚信建设，监督、引导本行业经营者公平参与市场竞争。",
             "children": []
           }
@@ -198,239 +308,406 @@
     ]
   },
   {
+    "__id": "FNtp2NB0RnZbaBOAbjIuL",
+    "order": 38,
     "mark": "第二章",
     "subject": "电子商务经营者",
     "_text": "第二章电子商务经营者",
     "children": [
       {
+        "__parentId": "FNtp2NB0RnZbaBOAbjIuL",
         "parentMark": "第二章",
+        "__id": "odLtMw48zqVMQbgp7duWR",
+        "order": 39,
         "mark": "第一节",
         "subject": "一般规定",
         "_text": "第一节一般规定",
         "children": [
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "62_DR6WUqOB~LYwNNZhzq",
+            "order": 40,
+            "mark": "第九条",
+            "subject": "",
             "_text": "第九条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "62_DR6WUqOB~LYwNNZhzq",
+                "parentMark": "第九条",
+                "__id": "wJSJ1ceu5dmIPBCCY3PLP",
+                "order": 41,
                 "_text": "本法所称电子商务经营者，是指通过互联网等信息网络从事销售商品或者提供服务的经营活动的自然人、法人和非法人组织，包括电子商务平台经营者、平台内经营者以及通过自建网站、其他网络服务销售商品或者提供服务的电子商务经营者。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "62_DR6WUqOB~LYwNNZhzq",
+                "parentMark": "第九条",
+                "__id": "iwmU1944_glBeLINNIt0J",
+                "order": 42,
                 "_text": "本法所称电子商务平台经营者，是指在电子商务中为交易双方或者多方提供网络经营场所、交易撮合、信息发布等服务，供交易双方或者多方独立开展交易活动的法人或者非法人组织。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "62_DR6WUqOB~LYwNNZhzq",
+                "parentMark": "第九条",
+                "__id": "G8xh7bWrGoWiwm6EMa_NA",
+                "order": 43,
                 "_text": "本法所称平台内经营者，是指通过电子商务平台销售商品或者提供服务的电子商务经营者。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "cIvJBjyNym0AysIZBCP8s",
+            "order": 44,
+            "mark": "第十条",
+            "subject": "",
             "_text": "第十条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "cIvJBjyNym0AysIZBCP8s",
+                "parentMark": "第十条",
+                "__id": "Ee86UmGg~UZ1A1rj6cFJA",
+                "order": 45,
                 "_text": "电子商务经营者应当依法办理市场主体登记。但是，个人销售自产农副产品、家庭手工业产品，个人利用自己的技能从事依法无须取得许可的便民劳务活动和零星小额交易活动，以及依照法律、行政法规不需要进行登记的除外。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "L8nvhGXS81WL91IP7khrq",
+            "order": 46,
+            "mark": "第十一条",
+            "subject": "",
             "_text": "第十一条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "L8nvhGXS81WL91IP7khrq",
+                "parentMark": "第十一条",
+                "__id": "Cs2o~Oqc8vr4FyHfxKcLK",
+                "order": 47,
                 "_text": "电子商务经营者应当依法履行纳税义务，并依法享受税收优惠。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "L8nvhGXS81WL91IP7khrq",
+                "parentMark": "第十一条",
+                "__id": "LVnj9cAZin0vdMmw498_o",
+                "order": 48,
                 "_text": "依照前条规定不需要办理市场主体登记的电子商务经营者在首次纳税义务发生后，应当依照税收征收管理法律、行政法规的规定申请办理税务登记，并如实申报纳税。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "JdImnzcTDPLD1kIJDfZkj",
+            "order": 49,
+            "mark": "第十二条",
+            "subject": "",
             "_text": "第十二条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "JdImnzcTDPLD1kIJDfZkj",
+                "parentMark": "第十二条",
+                "__id": "wlCggd2C8iGS83j3_CFpq",
+                "order": 50,
                 "_text": "电子商务经营者从事经营活动，依法需要取得相关行政许可的，应当依法取得行政许可。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "loT2j4YfCjVZ8Zlt8TI1r",
+            "order": 51,
+            "mark": "第十三条",
+            "subject": "",
             "_text": "第十三条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "loT2j4YfCjVZ8Zlt8TI1r",
+                "parentMark": "第十三条",
+                "__id": "5LTkVSiL7Z_k_E4tBQfqD",
+                "order": 52,
                 "_text": "电子商务经营者销售的商品或者提供的服务应当符合保障人身、财产安全的要求和环境保护要求，不得销售或者提供法律、行政法规禁止交易的商品或者服务。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "ZGFkLag7jTFk4oRFOhTWc",
+            "order": 53,
+            "mark": "第十四条",
+            "subject": "",
             "_text": "第十四条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "ZGFkLag7jTFk4oRFOhTWc",
+                "parentMark": "第十四条",
+                "__id": "AiWnR9aWfoEQ9doRzfVrg",
+                "order": 54,
                 "_text": "电子商务经营者销售商品或者提供服务应当依法出具纸质发票或者电子发票等购货凭证或者服务单据。电子发票与纸质发票具有同等法律效力。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "PYblOuJSDuTXjL4lz4MA6",
+            "order": 55,
+            "mark": "第十五条",
+            "subject": "",
             "_text": "第十五条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "PYblOuJSDuTXjL4lz4MA6",
+                "parentMark": "第十五条",
+                "__id": "jla7IeQ2Iv9VcrZ5juPJi",
+                "order": 56,
                 "_text": "电子商务经营者应当在其首页显著位置，持续公示营业执照信息、与其经营业务有关的行政许可信息、属于依照本法第十条规定的不需要办理市场主体登记情形等信息，或者上述信息的链接标识。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "PYblOuJSDuTXjL4lz4MA6",
+                "parentMark": "第十五条",
+                "__id": "cAbA5zrBazb5rmys3HxPM",
+                "order": 57,
                 "_text": "前款规定的信息发生变更的，电子商务经营者应当及时更新公示信息。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "H9JVTBUjDhl8VKAl4Wlb~",
+            "order": 58,
+            "mark": "第十六条",
+            "subject": "",
             "_text": "第十六条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "H9JVTBUjDhl8VKAl4Wlb~",
+                "parentMark": "第十六条",
+                "__id": "0UXWdxBYffIlUedgiCGX2",
+                "order": 59,
                 "_text": "电子商务经营者自行终止从事电子商务的，应当提前三十日在首页显著位置持续公示有关信息。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "wEj8IxIDJhsdlK2aDWcxV",
+            "order": 60,
+            "mark": "第十七条",
+            "subject": "",
             "_text": "第十七条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "wEj8IxIDJhsdlK2aDWcxV",
+                "parentMark": "第十七条",
+                "__id": "oiHB85GB8IIYY0cmwymlW",
+                "order": 61,
                 "_text": "电子商务经营者应当全面、真实、准确、及时地披露商品或者服务信息，保障消费者的知情权和选择权。电子商务经营者不得以虚构交易、编造用户评价等方式进行虚假或者引人误解的商业宣传，欺骗、误导消费者。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "jiyE3mQelhoGa9ha8Pfv_",
+            "order": 62,
+            "mark": "第十八条",
+            "subject": "",
             "_text": "第十八条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "jiyE3mQelhoGa9ha8Pfv_",
+                "parentMark": "第十八条",
+                "__id": "i_8ftdWQqIzlXwUDIM4cd",
+                "order": 63,
                 "_text": "电子商务经营者根据消费者的兴趣爱好、消费习惯等特征向其提供商品或者服务的搜索结果的，应当同时向该消费者提供不针对其个人特征的选项，尊重和平等保护消费者合法权益。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "jiyE3mQelhoGa9ha8Pfv_",
+                "parentMark": "第十八条",
+                "__id": "9gJCnqQd_2gP93__LjKwW",
+                "order": 64,
                 "_text": "电子商务经营者向消费者发送广告的，应当遵守《中华人民共和国广告法》的有关规定。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "wNHJCTL7VuLOSDOHnx_~u",
+            "order": 65,
+            "mark": "第十九条",
+            "subject": "",
             "_text": "第十九条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "wNHJCTL7VuLOSDOHnx_~u",
+                "parentMark": "第十九条",
+                "__id": "2Gf5dK_xZN7peGvsKco8B",
+                "order": 66,
                 "_text": "电子商务经营者搭售商品或者服务，应当以显著方式提请消费者注意，不得将搭售商品或者服务作为默认同意的选项。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "JUT9bK~r4ts~XYAzzss1P",
+            "order": 67,
+            "mark": "第二十条",
+            "subject": "",
             "_text": "第二十条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "JUT9bK~r4ts~XYAzzss1P",
+                "parentMark": "第二十条",
+                "__id": "sa2ywR42GCc6av1v0CC~Q",
+                "order": 68,
                 "_text": "电子商务经营者应当按照承诺或者与消费者约定的方式、时限向消费者交付商品或者服务，并承担商品运输中的风险和责任。但是，消费者另行选择快递物流服务提供者的除外。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "H23YH8HXdc1_nMCLdpOWG",
+            "order": 69,
+            "mark": "第二十一条",
+            "subject": "",
             "_text": "第二十一条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "H23YH8HXdc1_nMCLdpOWG",
+                "parentMark": "第二十一条",
+                "__id": "7finnv1ji5luQ9vOMHI1o",
+                "order": 70,
                 "_text": "电子商务经营者按照约定向消费者收取押金的，应当明示押金退还的方式、程序，不得对押金退还设置不合理条件。消费者申请退还押金，符合押金退还条件的，电子商务经营者应当及时退还。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "oIDUCHrGdDLbDKMyeXl9~",
+            "order": 71,
+            "mark": "第二十二条",
+            "subject": "",
             "_text": "第二十二条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "oIDUCHrGdDLbDKMyeXl9~",
+                "parentMark": "第二十二条",
+                "__id": "6IcrkqzCKemanHgXw3c09",
+                "order": 72,
                 "_text": "电子商务经营者因其技术优势、用户数量、对相关行业的控制能力以及其他经营者对该电子商务经营者在交易上的依赖程度等因素而具有市场支配地位的，不得滥用市场支配地位，排除、限制竞争。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "3Ho12bqmZQ1gtrFQmYOUv",
+            "order": 73,
+            "mark": "第二十三条",
+            "subject": "",
             "_text": "第二十三条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "3Ho12bqmZQ1gtrFQmYOUv",
+                "parentMark": "第二十三条",
+                "__id": "haa0UrUks12Um42wLhCHQ",
+                "order": 74,
                 "_text": "电子商务经营者收集、使用其用户的个人信息，应当遵守法律、行政法规有关个人信息保护的规定。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "XcfENyCu7~CwrKR62H3Of",
+            "order": 75,
+            "mark": "第二十四条",
+            "subject": "",
             "_text": "第二十四条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "XcfENyCu7~CwrKR62H3Of",
+                "parentMark": "第二十四条",
+                "__id": "TCEJYZXAU1ZRI~Y74qVby",
+                "order": 76,
                 "_text": "电子商务经营者应当明示用户信息查询、更正、删除以及用户注销的方式、程序，不得对用户信息查询、更正、删除以及用户注销设置不合理条件。",
                 "children": []
               },
               {
-                "parentMark": "第一节",
+                "__parentId": "XcfENyCu7~CwrKR62H3Of",
+                "parentMark": "第二十四条",
+                "__id": "EgjnvwvWlsgcKW17bYjIT",
+                "order": 77,
                 "_text": "电子商务经营者收到用户信息查询或者更正、删除的申请的，应当在核实身份后及时提供查询或者更正、删除用户信息。用户注销的，电子商务经营者应当立即删除该用户的信息；依照法律、行政法规的规定或者双方约定保存的，依照其规定。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "DbKEN5ggIQQoHVPf0Ic~w",
+            "order": 78,
+            "mark": "第二十五条",
+            "subject": "",
             "_text": "第二十五条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "DbKEN5ggIQQoHVPf0Ic~w",
+                "parentMark": "第二十五条",
+                "__id": "lVJ6EypeY_kmHqJrjeq5G",
+                "order": 79,
                 "_text": "有关主管部门依照法律、行政法规的规定要求电子商务经营者提供有关电子商务数据信息的，电子商务经营者应当提供。有关主管部门应当采取必要措施保护电子商务经营者提供的数据信息的安全，并对其中的个人信息、隐私和商业秘密严格保密，不得泄露、出售或者非法向他人提供。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "odLtMw48zqVMQbgp7duWR",
             "parentMark": "第一节",
+            "__id": "Y02xU14bshmRtF4r_ZLJ9",
+            "order": 80,
+            "mark": "第二十六条",
+            "subject": "",
             "_text": "第二十六条",
             "children": [
               {
-                "parentMark": "第一节",
+                "__parentId": "Y02xU14bshmRtF4r_ZLJ9",
+                "parentMark": "第二十六条",
+                "__id": "m~QYULeHI5wbfPvGeCvuK",
+                "order": 81,
                 "_text": "电子商务经营者从事跨境电子商务，应当遵守进出口监督管理的法律、行政法规和国家有关规定。",
                 "children": []
               }
@@ -439,276 +716,469 @@
         ]
       },
       {
+        "__parentId": "FNtp2NB0RnZbaBOAbjIuL",
         "parentMark": "第二章",
+        "__id": "rTYEV7bnz0Ygngv7zywZe",
+        "order": 82,
         "mark": "第二节",
         "subject": "电子商务平台经营者",
         "_text": "第二节电子商务平台经营者",
         "children": [
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "AdjBhGP9IVW4Low0r67s6",
+            "order": 83,
+            "mark": "第二十七条",
+            "subject": "",
             "_text": "第二十七条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "AdjBhGP9IVW4Low0r67s6",
+                "parentMark": "第二十七条",
+                "__id": "hifmcni6KfoO8OuDzpg_b",
+                "order": 84,
                 "_text": "电子商务平台经营者应当要求申请进入平台销售商品或者提供服务的经营者提交其身份、地址、联系方式、行政许可等真实信息，进行核验、登记，建立登记档案，并定期核验更新。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "AdjBhGP9IVW4Low0r67s6",
+                "parentMark": "第二十七条",
+                "__id": "vAlhpJNivgfcN4uiR2dUk",
+                "order": 85,
                 "_text": "电子商务平台经营者为进入平台销售商品或者提供服务的非经营用户提供服务，应当遵守本节有关规定。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "SKsSo~~VINSiZH2R1Su9j",
+            "order": 86,
+            "mark": "第二十八条",
+            "subject": "",
             "_text": "第二十八条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "SKsSo~~VINSiZH2R1Su9j",
+                "parentMark": "第二十八条",
+                "__id": "yvvtZ3t_nPfsHoJEr5QnJ",
+                "order": 87,
                 "_text": "电子商务平台经营者应当按照规定向市场监督管理部门报送平台内经营者的身份信息，提示未办理市场主体登记的经营者依法办理登记，并配合市场监督管理部门，针对电子商务的特点，为应当办理市场主体登记的经营者办理登记提供便利。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "SKsSo~~VINSiZH2R1Su9j",
+                "parentMark": "第二十八条",
+                "__id": "yn1fyTwjIU0LUkOza9Ac0",
+                "order": 88,
                 "_text": "电子商务平台经营者应当依照税收征收管理法律、行政法规的规定，向税务部门报送平台内经营者的身份信息和与纳税有关的信息，并应当提示依照本法第十条规定不需要办理市场主体登记的电子商务经营者依照本法第十一条第二款的规定办理税务登记。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "FgLSdQ47viZPvXhVaiUmG",
+            "order": 89,
+            "mark": "第二十九条",
+            "subject": "",
             "_text": "第二十九条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "FgLSdQ47viZPvXhVaiUmG",
+                "parentMark": "第二十九条",
+                "__id": "zrsTO7wgJGezZfIfTK1Nm",
+                "order": 90,
                 "_text": "电子商务平台经营者发现平台内的商品或者服务信息存在违反本法第十二条、第十三条规定情形的，应当依法采取必要的处置措施，并向有关主管部门报告。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "vOLVbw_PsungLaZjxEhnt",
+            "order": 91,
+            "mark": "第三十条",
+            "subject": "",
             "_text": "第三十条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "vOLVbw_PsungLaZjxEhnt",
+                "parentMark": "第三十条",
+                "__id": "FhmJjoQ~5mIx8Ecpk_TeZ",
+                "order": 92,
                 "_text": "电子商务平台经营者应当采取技术措施和其他必要措施保证其网络安全、稳定运行，防范网络违法犯罪活动，有效应对网络安全事件，保障电子商务交易安全。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "vOLVbw_PsungLaZjxEhnt",
+                "parentMark": "第三十条",
+                "__id": "_PqYnp5cqFNIm8ye_q38u",
+                "order": 93,
                 "_text": "电子商务平台经营者应当制定网络安全事件应急预案，发生网络安全事件时，应当立即启动应急预案，采取相应的补救措施，并向有关主管部门报告。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "Kqr1qDSQPLlwqkI5U7LrJ",
+            "order": 94,
+            "mark": "第三十一条",
+            "subject": "",
             "_text": "第三十一条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "Kqr1qDSQPLlwqkI5U7LrJ",
+                "parentMark": "第三十一条",
+                "__id": "dQYCVw5LIjWxXzl_r~UF9",
+                "order": 95,
                 "_text": "电子商务平台经营者应当记录、保存平台上发布的商品和服务信息、交易信息，并确保信息的完整性、保密性、可用性。商品和服务信息、交易信息保存时间自交易完成之日起不少于三年；法律、行政法规另有规定的，依照其规定。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "8cLwmHoTpPEXw3tg8gg2_",
+            "order": 96,
+            "mark": "第三十二条",
+            "subject": "",
             "_text": "第三十二条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "8cLwmHoTpPEXw3tg8gg2_",
+                "parentMark": "第三十二条",
+                "__id": "P37mGjarHbeEtSVLbjPY2",
+                "order": 97,
                 "_text": "电子商务平台经营者应当遵循公开、公平、公正的原则，制定平台服务协议和交易规则，明确进入和退出平台、商品和服务质量保障、消费者权益保护、个人信息保护等方面的权利和义务。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "x6w3i9CCRKXlFVRGdLWW1",
+            "order": 98,
+            "mark": "第三十三条",
+            "subject": "",
             "_text": "第三十三条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "x6w3i9CCRKXlFVRGdLWW1",
+                "parentMark": "第三十三条",
+                "__id": "hh3T1hIMy_plerEjEhAyO",
+                "order": 99,
                 "_text": "电子商务平台经营者应当在其首页显著位置持续公示平台服务协议和交易规则信息或者上述信息的链接标识，并保证经营者和消费者能够便利、完整地阅览和下载。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "u~ykyH4Q~9NGA8rf9T1_z",
+            "order": 100,
+            "mark": "第三十四条",
+            "subject": "",
             "_text": "第三十四条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "u~ykyH4Q~9NGA8rf9T1_z",
+                "parentMark": "第三十四条",
+                "__id": "tUywkMtcaXPrN1CkXrTj2",
+                "order": 101,
                 "_text": "电子商务平台经营者修改平台服务协议和交易规则，应当在其首页显著位置公开征求意见，采取合理措施确保有关各方能够及时充分表达意见。修改内容应当至少在实施前七日予以公示。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "u~ykyH4Q~9NGA8rf9T1_z",
+                "parentMark": "第三十四条",
+                "__id": "YRh3kTcD67NK_4TmIEVm9",
+                "order": 102,
                 "_text": "平台内经营者不接受修改内容，要求退出平台的，电子商务平台经营者不得阻止，并按照修改前的服务协议和交易规则承担相关责任。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "GKq0VRTgwwqvNewnlXhxX",
+            "order": 103,
+            "mark": "第三十五条",
+            "subject": "",
             "_text": "第三十五条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "GKq0VRTgwwqvNewnlXhxX",
+                "parentMark": "第三十五条",
+                "__id": "byAptVtuRoDZeXWrPh_lK",
+                "order": 104,
                 "_text": "电子商务平台经营者不得利用服务协议、交易规则以及技术等手段，对平台内经营者在平台内的交易、交易价格以及与其他经营者的交易等进行不合理限制或者附加不合理条件，或者向平台内经营者收取不合理费用。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "wCYfb4cI0eScebs6HklRk",
+            "order": 105,
+            "mark": "第三十六条",
+            "subject": "",
             "_text": "第三十六条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "wCYfb4cI0eScebs6HklRk",
+                "parentMark": "第三十六条",
+                "__id": "2tNSaXkwpZOnMxXdBnuMr",
+                "order": 106,
                 "_text": "电子商务平台经营者依据平台服务协议和交易规则对平台内经营者违反法律、法规的行为实施警示、暂停或者终止服务等措施的，应当及时公示。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "TnM3Vy1XKTGEum7hPpSuO",
+            "order": 107,
+            "mark": "第三十七条",
+            "subject": "",
             "_text": "第三十七条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "TnM3Vy1XKTGEum7hPpSuO",
+                "parentMark": "第三十七条",
+                "__id": "I_E6jgxH5R~FhK8hCnDHg",
+                "order": 108,
                 "_text": "电子商务平台经营者在其平台上开展自营业务的，应当以显著方式区分标记自营业务和平台内经营者开展的业务，不得误导消费者。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "TnM3Vy1XKTGEum7hPpSuO",
+                "parentMark": "第三十七条",
+                "__id": "1KUfLMbkLkuvXuk_c5WMg",
+                "order": 109,
                 "_text": "电子商务平台经营者对其标记为自营的业务依法承担商品销售者或者服务提供者的民事责任。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "5EkF56_TLdG~1XrWOXPsT",
+            "order": 110,
+            "mark": "第三十八条",
+            "subject": "",
             "_text": "第三十八条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "5EkF56_TLdG~1XrWOXPsT",
+                "parentMark": "第三十八条",
+                "__id": "Lm4ETJtW3rMSsuC03TDQj",
+                "order": 111,
                 "_text": "电子商务平台经营者知道或者应当知道平台内经营者销售的商品或者提供的服务不符合保障人身、财产安全的要求，或者有其他侵害消费者合法权益行为，未采取必要措施的，依法与该平台内经营者承担连带责任。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "5EkF56_TLdG~1XrWOXPsT",
+                "parentMark": "第三十八条",
+                "__id": "fIop888zqrKLVcGpA56ln",
+                "order": 112,
                 "_text": "对关系消费者生命健康的商品或者服务，电子商务平台经营者对平台内经营者的资质资格未尽到审核义务，或者对消费者未尽到安全保障义务，造成消费者损害的，依法承担相应的责任。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "dAJZtJkkvTN~86Z9h~Bu1",
+            "order": 113,
+            "mark": "第三十九条",
+            "subject": "",
             "_text": "第三十九条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "dAJZtJkkvTN~86Z9h~Bu1",
+                "parentMark": "第三十九条",
+                "__id": "3nARHgYKi4S8YZVr~u7iW",
+                "order": 114,
                 "_text": "电子商务平台经营者应当建立健全信用评价制度，公示信用评价规则，为消费者提供对平台内销售的商品或者提供的服务进行评价的途径。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "dAJZtJkkvTN~86Z9h~Bu1",
+                "parentMark": "第三十九条",
+                "__id": "pZRZH~o39piSJQ9Gr6IQm",
+                "order": 115,
                 "_text": "电子商务平台经营者不得删除消费者对其平台内销售的商品或者提供的服务的评价。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "80sKoW6vb5iW4F9iSByQl",
+            "order": 116,
+            "mark": "第四十条",
+            "subject": "",
             "_text": "第四十条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "80sKoW6vb5iW4F9iSByQl",
+                "parentMark": "第四十条",
+                "__id": "rLNOAbRRbdntI98Wy_o84",
+                "order": 117,
                 "_text": "电子商务平台经营者应当根据商品或者服务的价格、销量、信用等以多种方式向消费者显示商品或者服务的搜索结果；对于竞价排名的商品或者服务，应当显著标明“广告”。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "0r1F~Y7Z8nAxbyMaP_Bw4",
+            "order": 118,
+            "mark": "第四十一条",
+            "subject": "",
             "_text": "第四十一条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "0r1F~Y7Z8nAxbyMaP_Bw4",
+                "parentMark": "第四十一条",
+                "__id": "FLEEQzdUQOkqLHoXCZ6Tk",
+                "order": 119,
                 "_text": "电子商务平台经营者应当建立知识产权保护规则，与知识产权权利人加强合作，依法保护知识产权。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "QBe~jr7tAFxpk3L9T1bxW",
+            "order": 120,
+            "mark": "第四十二条",
+            "subject": "",
             "_text": "第四十二条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "QBe~jr7tAFxpk3L9T1bxW",
+                "parentMark": "第四十二条",
+                "__id": "1ZfeHliZnw2ZgwMYzOddk",
+                "order": 121,
                 "_text": "知识产权权利人认为其知识产权受到侵害的，有权通知电子商务平台经营者采取删除、屏蔽、断开链接、终止交易和服务等必要措施。通知应当包括构成侵权的初步证据。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "QBe~jr7tAFxpk3L9T1bxW",
+                "parentMark": "第四十二条",
+                "__id": "twfLWNOTLtH4J8g3wi9H0",
+                "order": 122,
                 "_text": "电子商务平台经营者接到通知后，应当及时采取必要措施，并将该通知转送平台内经营者；未及时采取必要措施的，对损害的扩大部分与平台内经营者承担连带责任。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "QBe~jr7tAFxpk3L9T1bxW",
+                "parentMark": "第四十二条",
+                "__id": "nFObx1xgWKkwOBmldAXjl",
+                "order": 123,
                 "_text": "因通知错误造成平台内经营者损害的，依法承担民事责任。恶意发出错误通知，造成平台内经营者损失的，加倍承担赔偿责任。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "i77zt4zXhnAVFW5Skio_r",
+            "order": 124,
+            "mark": "第四十三条",
+            "subject": "",
             "_text": "第四十三条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "i77zt4zXhnAVFW5Skio_r",
+                "parentMark": "第四十三条",
+                "__id": "t7q3VAjQiPcXPTWjXuTCU",
+                "order": 125,
                 "_text": "平台内经营者接到转送的通知后，可以向电子商务平台经营者提交不存在侵权行为的声明。声明应当包括不存在侵权行为的初步证据。",
                 "children": []
               },
               {
-                "parentMark": "第二节",
+                "__parentId": "i77zt4zXhnAVFW5Skio_r",
+                "parentMark": "第四十三条",
+                "__id": "aRla2XJIy5_pHxWdQwxxQ",
+                "order": 126,
                 "_text": "电子商务平台经营者接到声明后，应当将该声明转送发出通知的知识产权权利人，并告知其可以向有关主管部门投诉或者向人民法院起诉。电子商务平台经营者在转送声明到达知识产权权利人后十五日内，未收到权利人已经投诉或者起诉通知的，应当及时终止所采取的措施。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "YBI4zmjXWM0RQaelfZSou",
+            "order": 127,
+            "mark": "第四十四条",
+            "subject": "",
             "_text": "第四十四条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "YBI4zmjXWM0RQaelfZSou",
+                "parentMark": "第四十四条",
+                "__id": "alkovrSpPPSf5yl4DqzbI",
+                "order": 128,
                 "_text": "电子商务平台经营者应当及时公示收到的本法第四十二条、第四十三条规定的通知、声明及处理结果。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "Lg1tgWdeHvftnvkqCFiee",
+            "order": 129,
+            "mark": "第四十五条",
+            "subject": "",
             "_text": "第四十五条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "Lg1tgWdeHvftnvkqCFiee",
+                "parentMark": "第四十五条",
+                "__id": "Nl13ZrZX7Zf0027LaAbIp",
+                "order": 130,
                 "_text": "电子商务平台经营者知道或者应当知道平台内经营者侵犯知识产权的，应当采取删除、屏蔽、断开链接、终止交易和服务等必要措施；未采取必要措施的，与侵权人承担连带责任。",
                 "children": []
               }
             ]
           },
           {
+            "__parentId": "rTYEV7bnz0Ygngv7zywZe",
             "parentMark": "第二节",
+            "__id": "VTiQyvEGLt5JHLrjb8s_d",
+            "order": 131,
+            "mark": "第四十六条",
+            "subject": "",
             "_text": "第四十六条",
             "children": [
               {
-                "parentMark": "第二节",
+                "__parentId": "VTiQyvEGLt5JHLrjb8s_d",
+                "parentMark": "第四十六条",
+                "__id": "_Cl4lFIejOsWCxoqcZXYb",
+                "order": 132,
                 "_text": "除本法第九条第二款规定的服务外，电子商务平台经营者可以按照平台服务协议和交易规则，为经营者之间的电子商务提供仓储、物流、支付结算、交收等服务。电子商务平台经营者为经营者之间的电子商务提供服务，应当遵守法律、行政法规和国家有关规定，不得采取集中竞价、做市商等集中交易方式进行交易，不得进行标准化合约交易。",
                 "children": []
               }
@@ -719,191 +1189,320 @@
     ]
   },
   {
+    "__id": "J1YIR9yeT_VyDrjZiSH8~",
+    "order": 133,
     "mark": "第三章",
     "subject": "电子商务合同的订立与履行",
     "_text": "第三章电子商务合同的订立与履行",
     "children": [
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "JFs1bB4YPLDIPjhspF4Ll",
+        "order": 134,
+        "mark": "第四十七条",
+        "subject": "",
         "_text": "第四十七条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "JFs1bB4YPLDIPjhspF4Ll",
+            "parentMark": "第四十七条",
+            "__id": "7cWPXyFJvueE7aeaM5nFG",
+            "order": 135,
             "_text": "电子商务当事人订立和履行合同，适用本章和《中华人民共和国民法总则》《中华人民共和国合同法》《中华人民共和国电子签名法》等法律的规定。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "iPwFmVUqULnsdHgP4WyZq",
+        "order": 136,
+        "mark": "第四十八条",
+        "subject": "",
         "_text": "第四十八条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "iPwFmVUqULnsdHgP4WyZq",
+            "parentMark": "第四十八条",
+            "__id": "mlM5tcRdilAET5zKj98D_",
+            "order": 137,
             "_text": "电子商务当事人使用自动信息系统订立或者履行合同的行为对使用该系统的当事人具有法律效力。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "iPwFmVUqULnsdHgP4WyZq",
+            "parentMark": "第四十八条",
+            "__id": "dp2tpT4TggWnVc0mYO2ob",
+            "order": 138,
             "_text": "在电子商务中推定当事人具有相应的民事行为能力。但是，有相反证据足以推翻的除外。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "SAzCr4KAYbjE2Z_voIXD8",
+        "order": 139,
+        "mark": "第四十九条",
+        "subject": "",
         "_text": "第四十九条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "SAzCr4KAYbjE2Z_voIXD8",
+            "parentMark": "第四十九条",
+            "__id": "MNfd8V~IiTV_biYidffXt",
+            "order": 140,
             "_text": "电子商务经营者发布的商品或者服务信息符合要约条件的，用户选择该商品或者服务并提交订单成功，合同成立。当事人另有约定的，从其约定。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "SAzCr4KAYbjE2Z_voIXD8",
+            "parentMark": "第四十九条",
+            "__id": "G6~GqQnkIJncEcK5Y680T",
+            "order": 141,
             "_text": "电子商务经营者不得以格式条款等方式约定消费者支付价款后合同不成立；格式条款等含有该内容的，其内容无效。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "RsYdeQelgu4OpvFmJj8cy",
+        "order": 142,
+        "mark": "第五十条",
+        "subject": "",
         "_text": "第五十条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "RsYdeQelgu4OpvFmJj8cy",
+            "parentMark": "第五十条",
+            "__id": "XF~oxUaTxdRBMlKIJY2aD",
+            "order": 143,
             "_text": "电子商务经营者应当清晰、全面、明确地告知用户订立合同的步骤、注意事项、下载方法等事项，并保证用户能够便利、完整地阅览和下载。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "RsYdeQelgu4OpvFmJj8cy",
+            "parentMark": "第五十条",
+            "__id": "IQNwd4JE7y0TdxC7dejJr",
+            "order": 144,
             "_text": "电子商务经营者应当保证用户在提交订单前可以更正输入错误。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "n6Zvf4pd7uS8laRQaQNfe",
+        "order": 145,
+        "mark": "第五十一条",
+        "subject": "",
         "_text": "第五十一条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "n6Zvf4pd7uS8laRQaQNfe",
+            "parentMark": "第五十一条",
+            "__id": "b072eSOoQdszWnEIOqnVM",
+            "order": 146,
             "_text": "合同标的为交付商品并采用快递物流方式交付的，收货人签收时间为交付时间。合同标的为提供服务的，生成的电子凭证或者实物凭证中载明的时间为交付时间；前述凭证没有载明时间或者载明时间与实际提供服务时间不一致的，实际提供服务的时间为交付时间。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "n6Zvf4pd7uS8laRQaQNfe",
+            "parentMark": "第五十一条",
+            "__id": "7ymDpzZEN1VxU8T91G2fS",
+            "order": 147,
             "_text": "合同标的为采用在线传输方式交付的，合同标的进入对方当事人指定的特定系统并且能够检索识别的时间为交付时间。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "n6Zvf4pd7uS8laRQaQNfe",
+            "parentMark": "第五十一条",
+            "__id": "aY3u3c1totF~ukvvpe_88",
+            "order": 148,
             "_text": "合同当事人对交付方式、交付时间另有约定的，从其约定。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "Zd8DvXH_4raWqYFCIAcep",
+        "order": 149,
+        "mark": "第五十二条",
+        "subject": "",
         "_text": "第五十二条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "Zd8DvXH_4raWqYFCIAcep",
+            "parentMark": "第五十二条",
+            "__id": "Qq0pUDHq70YjUK7p5r8gl",
+            "order": 150,
             "_text": "电子商务当事人可以约定采用快递物流方式交付商品。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "Zd8DvXH_4raWqYFCIAcep",
+            "parentMark": "第五十二条",
+            "__id": "fBDkJNvbPADbN~tt2X7cq",
+            "order": 151,
             "_text": "快递物流服务提供者为电子商务提供快递物流服务，应当遵守法律、行政法规，并应当符合承诺的服务规范和时限。快递物流服务提供者在交付商品时，应当提示收货人当面查验；交由他人代收的，应当经收货人同意。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "Zd8DvXH_4raWqYFCIAcep",
+            "parentMark": "第五十二条",
+            "__id": "LFihBeCJA2CzdY0PHEOO5",
+            "order": 152,
             "_text": "快递物流服务提供者应当按照规定使用环保包装材料，实现包装材料的减量化和再利用。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "Zd8DvXH_4raWqYFCIAcep",
+            "parentMark": "第五十二条",
+            "__id": "4sfYVD6T5uf8qy0VZN~nk",
+            "order": 153,
             "_text": "快递物流服务提供者在提供快递物流服务的同时，可以接受电子商务经营者的委托提供代收货款服务。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "qmox4_vubMoTBq7ox~x49",
+        "order": 154,
+        "mark": "第五十三条",
+        "subject": "",
         "_text": "第五十三条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "qmox4_vubMoTBq7ox~x49",
+            "parentMark": "第五十三条",
+            "__id": "AG_LKulZOzQqDy1Bt0KPZ",
+            "order": 155,
             "_text": "电子商务当事人可以约定采用电子支付方式支付价款。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "qmox4_vubMoTBq7ox~x49",
+            "parentMark": "第五十三条",
+            "__id": "lCbi7Rjr~NCCPGQLcywCY",
+            "order": 156,
             "_text": "电子支付服务提供者为电子商务提供电子支付服务，应当遵守国家规定，告知用户电子支付服务的功能、使用方法、注意事项、相关风险和收费标准等事项，不得附加不合理交易条件。电子支付服务提供者应当确保电子支付指令的完整性、一致性、可跟踪稽核和不可篡改。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "qmox4_vubMoTBq7ox~x49",
+            "parentMark": "第五十三条",
+            "__id": "0iyoKkKTwybHKxg6epkW3",
+            "order": 157,
             "_text": "电子支付服务提供者应当向用户免费提供对账服务以及最近三年的交易记录。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "~yVBvfLpqDhWoqca0yrep",
+        "order": 158,
+        "mark": "第五十四条",
+        "subject": "",
         "_text": "第五十四条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "~yVBvfLpqDhWoqca0yrep",
+            "parentMark": "第五十四条",
+            "__id": "XOi~j3V6mOR1TmIXrTDvv",
+            "order": 159,
             "_text": "电子支付服务提供者提供电子支付服务不符合国家有关支付安全管理要求，造成用户损失的，应当承担赔偿责任。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "hdaCr_f2t_e6wpdPhHnjH",
+        "order": 160,
+        "mark": "第五十五条",
+        "subject": "",
         "_text": "第五十五条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "hdaCr_f2t_e6wpdPhHnjH",
+            "parentMark": "第五十五条",
+            "__id": "iiKuJpeJCyoe686k_ztQM",
+            "order": 161,
             "_text": "用户在发出支付指令前，应当核对支付指令所包含的金额、收款人等完整信息。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "hdaCr_f2t_e6wpdPhHnjH",
+            "parentMark": "第五十五条",
+            "__id": "DPcJIj26dY8GmB~TvDgCz",
+            "order": 162,
             "_text": "支付指令发生错误的，电子支付服务提供者应当及时查找原因，并采取相关措施予以纠正。造成用户损失的，电子支付服务提供者应当承担赔偿责任，但能够证明支付错误非自身原因造成的除外。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "J7X2bZdCklEwtfXzdzsz1",
+        "order": 163,
+        "mark": "第五十六条",
+        "subject": "",
         "_text": "第五十六条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "J7X2bZdCklEwtfXzdzsz1",
+            "parentMark": "第五十六条",
+            "__id": "TsCHPQkP~vrkvkqcs_wlx",
+            "order": 164,
             "_text": "电子支付服务提供者完成电子支付后，应当及时准确地向用户提供符合约定方式的确认支付的信息。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "J1YIR9yeT_VyDrjZiSH8~",
         "parentMark": "第三章",
+        "__id": "1Hs2UWR5oqQEsNI80QZnH",
+        "order": 165,
+        "mark": "第五十七条",
+        "subject": "",
         "_text": "第五十七条",
         "children": [
           {
-            "parentMark": "第三章",
+            "__parentId": "1Hs2UWR5oqQEsNI80QZnH",
+            "parentMark": "第五十七条",
+            "__id": "xJEQ~KXiQ04P7i9xrlD8L",
+            "order": 166,
             "_text": "用户应当妥善保管交易密码、电子签名数据等安全工具。用户发现安全工具遗失、被盗用或者未经授权的支付的，应当及时通知电子支付服务提供者。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "1Hs2UWR5oqQEsNI80QZnH",
+            "parentMark": "第五十七条",
+            "__id": "eTYajtdkReYhQ8~rDVVXK",
+            "order": 167,
             "_text": "未经授权的支付造成的损失，由电子支付服务提供者承担；电子支付服务提供者能够证明未经授权的支付是因用户的过错造成的，不承担责任。",
             "children": []
           },
           {
-            "parentMark": "第三章",
+            "__parentId": "1Hs2UWR5oqQEsNI80QZnH",
+            "parentMark": "第五十七条",
+            "__id": "DAFgIbxERKbEme48Ug6iJ",
+            "order": 168,
             "_text": "电子支付服务提供者发现支付指令未经授权，或者收到用户支付指令未经授权的通知时，应当立即采取措施防止损失扩大。电子支付服务提供者未及时采取措施导致损失扩大的，对损失扩大部分承担责任。",
             "children": []
           }
@@ -912,81 +1511,137 @@
     ]
   },
   {
+    "__id": "9bEaww9JYbyc4WrxwGiXd",
+    "order": 169,
     "mark": "第四章",
     "subject": "电子商务争议解决",
     "_text": "第四章电子商务争议解决",
     "children": [
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "F0y6mKbgLABv7RbWNbJuE",
+        "order": 170,
+        "mark": "第五十八条",
+        "subject": "",
         "_text": "第五十八条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "F0y6mKbgLABv7RbWNbJuE",
+            "parentMark": "第五十八条",
+            "__id": "ad7E57vPV2s_U0rnBTdAS",
+            "order": 171,
             "_text": "国家鼓励电子商务平台经营者建立有利于电子商务发展和消费者权益保护的商品、服务质量担保机制。",
             "children": []
           },
           {
-            "parentMark": "第四章",
+            "__parentId": "F0y6mKbgLABv7RbWNbJuE",
+            "parentMark": "第五十八条",
+            "__id": "kT_TulQ8Yib8n0IOw37Gi",
+            "order": 172,
             "_text": "电子商务平台经营者与平台内经营者协议设立消费者权益保证金的，双方应当就消费者权益保证金的提取数额、管理、使用和退还办法等作出明确约定。",
             "children": []
           },
           {
-            "parentMark": "第四章",
+            "__parentId": "F0y6mKbgLABv7RbWNbJuE",
+            "parentMark": "第五十八条",
+            "__id": "1jwvZuBRZ_P_Ir2qZj1sA",
+            "order": 173,
             "_text": "消费者要求电子商务平台经营者承担先行赔偿责任以及电子商务平台经营者赔偿后向平台内经营者的追偿，适用《中华人民共和国消费者权益保护法》的有关规定。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "ltAbDuItIVdzXYKJay~Xj",
+        "order": 174,
+        "mark": "第五十九条",
+        "subject": "",
         "_text": "第五十九条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "ltAbDuItIVdzXYKJay~Xj",
+            "parentMark": "第五十九条",
+            "__id": "pzgnDqkYQwcs_APNlD2Ei",
+            "order": 175,
             "_text": "电子商务经营者应当建立便捷、有效的投诉、举报机制，公开投诉、举报方式等信息，及时受理并处理投诉、举报。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "WVYQsoyHPlP7qCS2h9hPw",
+        "order": 176,
+        "mark": "第六十条",
+        "subject": "",
         "_text": "第六十条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "WVYQsoyHPlP7qCS2h9hPw",
+            "parentMark": "第六十条",
+            "__id": "FUUt~d8NYkIbzkDiX34Kg",
+            "order": 177,
             "_text": "电子商务争议可以通过协商和解，请求消费者组织、行业协会或者其他依法成立的调解组织调解，向有关部门投诉，提请仲裁，或者提起诉讼等方式解决。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "MFkxJWDm_J1Al54wb4Nqi",
+        "order": 178,
+        "mark": "第六十一条",
+        "subject": "",
         "_text": "第六十一条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "MFkxJWDm_J1Al54wb4Nqi",
+            "parentMark": "第六十一条",
+            "__id": "4aBNS9ywf4zLQaUPeHIZv",
+            "order": 179,
             "_text": "消费者在电子商务平台购买商品或者接受服务，与平台内经营者发生争议时，电子商务平台经营者应当积极协助消费者维护合法权益。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "CCUZZqjhN6_vd3ZZvrkXw",
+        "order": 180,
+        "mark": "第六十二条",
+        "subject": "",
         "_text": "第六十二条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "CCUZZqjhN6_vd3ZZvrkXw",
+            "parentMark": "第六十二条",
+            "__id": "YniHDX5tkOWCqxNgubS9l",
+            "order": 181,
             "_text": "在电子商务争议处理中，电子商务经营者应当提供原始合同和交易记录。因电子商务经营者丢失、伪造、篡改、销毁、隐匿或者拒绝提供前述资料，致使人民法院、仲裁机构或者有关机关无法查明事实的，电子商务经营者应当承担相应的法律责任。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "9bEaww9JYbyc4WrxwGiXd",
         "parentMark": "第四章",
+        "__id": "uZnEmxblUK76kKeKO5Awm",
+        "order": 182,
+        "mark": "第六十三条",
+        "subject": "",
         "_text": "第六十三条",
         "children": [
           {
-            "parentMark": "第四章",
+            "__parentId": "uZnEmxblUK76kKeKO5Awm",
+            "parentMark": "第六十三条",
+            "__id": "ics2k7FcbfJFofE3LqsKD",
+            "order": 183,
             "_text": "电子商务平台经营者可以建立争议在线解决机制，制定并公示争议解决规则，根据自愿原则，公平、公正地解决当事人的争议。",
             "children": []
           }
@@ -995,130 +1650,221 @@
     ]
   },
   {
+    "__id": "e3l0kojrfXtDrgJ2gVDu4",
+    "order": 184,
     "mark": "第五章",
     "subject": "电子商务促进",
     "_text": "第五章电子商务促进",
     "children": [
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "xZv1i7Naji0~AFcfzyj8l",
+        "order": 185,
+        "mark": "第六十四条",
+        "subject": "",
         "_text": "第六十四条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "xZv1i7Naji0~AFcfzyj8l",
+            "parentMark": "第六十四条",
+            "__id": "Y7p2ru3NfQ8lEpGtk7e6Z",
+            "order": 186,
             "_text": "国务院和省、自治区、直辖市人民政府应当将电子商务发展纳入国民经济和社会发展规划，制定科学合理的产业政策，促进电子商务创新发展。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "voerxlpagRyBFIt4wx3Rc",
+        "order": 187,
+        "mark": "第六十五条",
+        "subject": "",
         "_text": "第六十五条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "voerxlpagRyBFIt4wx3Rc",
+            "parentMark": "第六十五条",
+            "__id": "cHoW4gWawjLBY_0vvPIdr",
+            "order": 188,
             "_text": "国务院和县级以上地方人民政府及其有关部门应当采取措施，支持、推动绿色包装、仓储、运输，促进电子商务绿色发展。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "R1N_Uvl1znoBAF8BkPhlL",
+        "order": 189,
+        "mark": "第六十六条",
+        "subject": "",
         "_text": "第六十六条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "R1N_Uvl1znoBAF8BkPhlL",
+            "parentMark": "第六十六条",
+            "__id": "~DYUa~f2pcB8euWQ8JrZ~",
+            "order": 190,
             "_text": "国家推动电子商务基础设施和物流网络建设，完善电子商务统计制度，加强电子商务标准体系建设。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "7Bvtf87fk9ClWY_GrTTHY",
+        "order": 191,
+        "mark": "第六十七条",
+        "subject": "",
         "_text": "第六十七条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "7Bvtf87fk9ClWY_GrTTHY",
+            "parentMark": "第六十七条",
+            "__id": "h6fCTdSBc0VAqpjNJqG_w",
+            "order": 192,
             "_text": "国家推动电子商务在国民经济各个领域的应用，支持电子商务与各产业融合发展。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "1WuhauPO4QlIt_C5wA8ZJ",
+        "order": 193,
+        "mark": "第六十八条",
+        "subject": "",
         "_text": "第六十八条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "1WuhauPO4QlIt_C5wA8ZJ",
+            "parentMark": "第六十八条",
+            "__id": "dH0x3Z7QRrCy8LwPTth2t",
+            "order": 194,
             "_text": "国家促进农业生产、加工、流通等环节的互联网技术应用，鼓励各类社会资源加强合作，促进农村电子商务发展，发挥电子商务在精准扶贫中的作用。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "tVSn3ZT0VDNzEWuCVGNCH",
+        "order": 195,
+        "mark": "第六十九条",
+        "subject": "",
         "_text": "第六十九条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "tVSn3ZT0VDNzEWuCVGNCH",
+            "parentMark": "第六十九条",
+            "__id": "zmeujTC_0kcP8d209MZcz",
+            "order": 196,
             "_text": "国家维护电子商务交易安全，保护电子商务用户信息，鼓励电子商务数据开发应用，保障电子商务数据依法有序自由流动。",
             "children": []
           },
           {
-            "parentMark": "第五章",
+            "__parentId": "tVSn3ZT0VDNzEWuCVGNCH",
+            "parentMark": "第六十九条",
+            "__id": "KP8TNbzUxZbO5ux_ILpJe",
+            "order": 197,
             "_text": "国家采取措施推动建立公共数据共享机制，促进电子商务经营者依法利用公共数据。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "Mgy9GnJ36lliFM~s4iWl1",
+        "order": 198,
+        "mark": "第七十条",
+        "subject": "",
         "_text": "第七十条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "Mgy9GnJ36lliFM~s4iWl1",
+            "parentMark": "第七十条",
+            "__id": "DDUpl8w_MHv1Ha6VdLLZg",
+            "order": 199,
             "_text": "国家支持依法设立的信用评价机构开展电子商务信用评价，向社会提供电子商务信用评价服务。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "qOw6RkRV8HKBawbeVO2mm",
+        "order": 200,
+        "mark": "第七十一条",
+        "subject": "",
         "_text": "第七十一条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "qOw6RkRV8HKBawbeVO2mm",
+            "parentMark": "第七十一条",
+            "__id": "upUy4_i4sCrVyhr1qkC2~",
+            "order": 201,
             "_text": "国家促进跨境电子商务发展，建立健全适应跨境电子商务特点的海关、税收、进出境检验检疫、支付结算等管理制度，提高跨境电子商务各环节便利化水平，支持跨境电子商务平台经营者等为跨境电子商务提供仓储物流、报关、报检等服务。",
             "children": []
           },
           {
-            "parentMark": "第五章",
+            "__parentId": "qOw6RkRV8HKBawbeVO2mm",
+            "parentMark": "第七十一条",
+            "__id": "RvijMLLcbFEU1vN89ewdj",
+            "order": 202,
             "_text": "国家支持小型微型企业从事跨境电子商务。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "Qz4rQ1Wf__gy7RIdQGh3X",
+        "order": 203,
+        "mark": "第七十二条",
+        "subject": "",
         "_text": "第七十二条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "Qz4rQ1Wf__gy7RIdQGh3X",
+            "parentMark": "第七十二条",
+            "__id": "HGNs4bq1F65MGMUaLbbws",
+            "order": 204,
             "_text": "国家进出口管理部门应当推进跨境电子商务海关申报、纳税、检验检疫等环节的综合服务和监管体系建设，优化监管流程，推动实现信息共享、监管互认、执法互助，提高跨境电子商务服务和监管效率。跨境电子商务经营者可以凭电子单证向国家进出口管理部门办理有关手续。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "e3l0kojrfXtDrgJ2gVDu4",
         "parentMark": "第五章",
+        "__id": "p62d8qlUB5io6tSwr26Bx",
+        "order": 205,
+        "mark": "第七十三条",
+        "subject": "",
         "_text": "第七十三条",
         "children": [
           {
-            "parentMark": "第五章",
+            "__parentId": "p62d8qlUB5io6tSwr26Bx",
+            "parentMark": "第七十三条",
+            "__id": "hCHxgo_VNs271ILq7UBLh",
+            "order": 206,
             "_text": "国家推动建立与不同国家、地区之间跨境电子商务的交流合作，参与电子商务国际规则的制定，促进电子签名、电子身份等国际互认。",
             "children": []
           },
           {
-            "parentMark": "第五章",
+            "__parentId": "p62d8qlUB5io6tSwr26Bx",
+            "parentMark": "第七十三条",
+            "__id": "vWBmR2xEWjQfEVtpS66c5",
+            "order": 207,
             "_text": "国家推动建立与不同国家、地区之间的跨境电子商务争议解决机制。",
             "children": []
           }
@@ -1127,68 +1873,115 @@
     ]
   },
   {
+    "__id": "KjkVHnc4p2bxfmIpmgvyL",
+    "order": 208,
     "mark": "第六章",
     "subject": "法律责任",
     "_text": "第六章法律责任",
     "children": [
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "ceuGw4tlpegBzM6eAmFBs",
+        "order": 209,
+        "mark": "第七十四条",
+        "subject": "",
         "_text": "第七十四条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "ceuGw4tlpegBzM6eAmFBs",
+            "parentMark": "第七十四条",
+            "__id": "ASEPbsJyFrGpYNW6MzO~a",
+            "order": 210,
             "_text": "电子商务经营者销售商品或者提供服务，不履行合同义务或者履行合同义务不符合约定，或者造成他人损害的，依法承担民事责任。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "6REG_SzXgCRuqptG5ti6v",
+        "order": 211,
+        "mark": "第七十五条",
+        "subject": "",
         "_text": "第七十五条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "6REG_SzXgCRuqptG5ti6v",
+            "parentMark": "第七十五条",
+            "__id": "T~AAvGiU~vgKSDtIMSz8q",
+            "order": 212,
             "_text": "电子商务经营者违反本法第十二条、第十三条规定，未取得相关行政许可从事经营活动，或者销售、提供法律、行政法规禁止交易的商品、服务，或者不履行本法第二十五条规定的信息提供义务，电子商务平台经营者违反本法第四十六条规定，采取集中交易方式进行交易，或者进行标准化合约交易的，依照有关法律、行政法规的规定处罚。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "YeCberAtWYcssXqnHyMoz",
+        "order": 213,
+        "mark": "第七十六条",
+        "subject": "",
         "_text": "第七十六条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "YeCberAtWYcssXqnHyMoz",
+            "parentMark": "第七十六条",
+            "__id": "Mdg6xeiw5Hw~V2r5sp8bo",
+            "order": 214,
             "_text": "电子商务经营者违反本法规定，有下列行为之一的，由市场监督管理部门责令限期改正，可以处一万元以下的罚款，对其中的电子商务平台经营者，依照本法第八十一条第一款的规定处罚：",
             "children": [
               {
-                "parentMark": "第六章",
+                "__parentId": "Mdg6xeiw5Hw~V2r5sp8bo",
+                "parentMark": "第七十六条",
+                "__id": "RpioSYw06LXnuHLdJkmwe",
+                "order": 215,
+                "mark": "（一）",
                 "_text": "（一）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "RpioSYw06LXnuHLdJkmwe",
+                    "parentMark": "（一）",
+                    "__id": "brgsUk6M1q3mtq~7~zUfa",
+                    "order": 216,
                     "_text": "未在首页显著位置公示营业执照信息、行政许可信息、属于不需要办理市场主体登记情形等信息,或者上述信息的链接标识的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "Mdg6xeiw5Hw~V2r5sp8bo",
+                "parentMark": "第七十六条",
+                "__id": "pK5_zW_uCL9tH6Q1sRbap",
+                "order": 217,
+                "mark": "（二）",
                 "_text": "（二）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "pK5_zW_uCL9tH6Q1sRbap",
+                    "parentMark": "（二）",
+                    "__id": "jXWBefvStNPRPwt~73T7H",
+                    "order": 218,
                     "_text": "未在首页显著位置持续公示终止电子商务的有关信息的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "Mdg6xeiw5Hw~V2r5sp8bo",
+                "parentMark": "第七十六条",
+                "__id": "H0unkaRpWqkKkGzkfe3AP",
+                "order": 219,
+                "mark": "（三）",
                 "_text": "（三）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "H0unkaRpWqkKkGzkfe3AP",
+                    "parentMark": "（三）",
+                    "__id": "rYt_c5~VG_MKimlD1wFVP",
+                    "order": 220,
                     "_text": "未明示用户信息查询、更正、删除以及用户注销的方式、程序，或者对用户信息查询、更正、删除以及用户注销设置不合理条件的。",
                     "children": []
                   }
@@ -1197,92 +1990,155 @@
             ]
           },
           {
-            "parentMark": "第六章",
+            "__parentId": "YeCberAtWYcssXqnHyMoz",
+            "parentMark": "第七十六条",
+            "__id": "OPraavnyQgqmVzgvn6Zcq",
+            "order": 221,
             "_text": "电子商务平台经营者对违反前款规定的平台内经营者未采取必要措施的，由市场监督管理部门责令限期改正，可以处二万元以上十万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "sEXFR7oj~dTDwQNZoIa_N",
+        "order": 222,
+        "mark": "第七十七条",
+        "subject": "",
         "_text": "第七十七条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "sEXFR7oj~dTDwQNZoIa_N",
+            "parentMark": "第七十七条",
+            "__id": "H9EKSHI_iX7WLosLEhLXm",
+            "order": 223,
             "_text": "电子商务经营者违反本法第十八条第一款规定提供搜索结果，或者违反本法第十九条规定搭售商品、服务的，由市场监督管理部门责令限期改正，没收违法所得，可以并处五万元以上二十万元以下的罚款；情节严重的，并处二十万元以上五十万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "tDRkH6brhQ8MYtPqIeQpO",
+        "order": 224,
+        "mark": "第七十八条",
+        "subject": "",
         "_text": "第七十八条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "tDRkH6brhQ8MYtPqIeQpO",
+            "parentMark": "第七十八条",
+            "__id": "bFhmxF12sWGxDK5CNhocE",
+            "order": 225,
             "_text": "电子商务经营者违反本法第二十一条规定，未向消费者明示押金退还的方式、程序，对押金退还设置不合理条件，或者不及时退还押金的，由有关主管部门责令限期改正，可以处五万元以上二十万元以下的罚款；情节严重的，处二十万元以上五十万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "E0aZUOCWTYGi4fTEUJ2Rn",
+        "order": 226,
+        "mark": "第七十九条",
+        "subject": "",
         "_text": "第七十九条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "E0aZUOCWTYGi4fTEUJ2Rn",
+            "parentMark": "第七十九条",
+            "__id": "vWJY2d4Ww5PbwWKH4CReU",
+            "order": 227,
             "_text": "电子商务经营者违反法律、行政法规有关个人信息保护的规定，或者不履行本法第三十条和有关法律、行政法规规定的网络安全保障义务的，依照《中华人民共和国网络安全法》等法律、行政法规的规定处罚。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "xmJqP2xFQw5LOnQt20R7g",
+        "order": 228,
+        "mark": "第八十条",
+        "subject": "",
         "_text": "第八十条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "xmJqP2xFQw5LOnQt20R7g",
+            "parentMark": "第八十条",
+            "__id": "_3Db_foeRu2TZb_Sm5eMt",
+            "order": 229,
             "_text": "电子商务平台经营者有下列行为之一的，由有关主管部门责令限期改正；逾期不改正的，处二万元以上十万元以下的罚款；情节严重的，责令停业整顿，并处十万元以上五十万元以下的罚款：",
             "children": [
               {
-                "parentMark": "第六章",
+                "__parentId": "_3Db_foeRu2TZb_Sm5eMt",
+                "parentMark": "第八十条",
+                "__id": "kl8LYdyFo~387IK1x~b8L",
+                "order": 230,
+                "mark": "（一）",
                 "_text": "（一）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "kl8LYdyFo~387IK1x~b8L",
+                    "parentMark": "（一）",
+                    "__id": "T3fsIV0pAq5iQIvnuaFEp",
+                    "order": 231,
                     "_text": "不履行本法第二十七条规定的核验、登记义务的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "_3Db_foeRu2TZb_Sm5eMt",
+                "parentMark": "第八十条",
+                "__id": "MK~QkbiQWdkDcio3m_qc5",
+                "order": 232,
+                "mark": "（二）",
                 "_text": "（二）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "MK~QkbiQWdkDcio3m_qc5",
+                    "parentMark": "（二）",
+                    "__id": "qhDFTpWGilPLYb8zSkBrL",
+                    "order": 233,
                     "_text": "不按照本法第二十八条规定向市场监督管理部门、税务部门报送有关信息的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "_3Db_foeRu2TZb_Sm5eMt",
+                "parentMark": "第八十条",
+                "__id": "wb_IBqvSAFfpPZcUCUHqg",
+                "order": 234,
+                "mark": "（三）",
                 "_text": "（三）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "wb_IBqvSAFfpPZcUCUHqg",
+                    "parentMark": "（三）",
+                    "__id": "Qdz_pZ~9rZ6Bua4~8Xxow",
+                    "order": 235,
                     "_text": "不按照本法第二十九条规定对违法情形采取必要的处置措施，或者未向有关主管部门报告的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "_3Db_foeRu2TZb_Sm5eMt",
+                "parentMark": "第八十条",
+                "__id": "4IAZouZhECGGgQRwHtbmB",
+                "order": 236,
+                "mark": "（四）",
                 "_text": "（四）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "4IAZouZhECGGgQRwHtbmB",
+                    "parentMark": "（四）",
+                    "__id": "P1fZWZx_TIaL2rUEspv2y",
+                    "order": 237,
                     "_text": "不履行本法第三十一条规定的商品和服务信息、交易信息保存义务的。",
                     "children": []
                   }
@@ -1291,59 +2147,98 @@
             ]
           },
           {
-            "parentMark": "第六章",
+            "__parentId": "xmJqP2xFQw5LOnQt20R7g",
+            "parentMark": "第八十条",
+            "__id": "eq8xvVOBQZ1LApq6wKTqm",
+            "order": 238,
             "_text": "法律、行政法规对前款规定的违法行为的处罚另有规定的，依照其规定。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "d49vkp0qVRvFa1hthEmZl",
+        "order": 239,
+        "mark": "第八十一条",
+        "subject": "",
         "_text": "第八十一条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "d49vkp0qVRvFa1hthEmZl",
+            "parentMark": "第八十一条",
+            "__id": "hITJQm1BRDO6WuTsG8VWq",
+            "order": 240,
             "_text": "电子商务平台经营者违反本法规定，有下列行为之一的，由市场监督管理部门责令限期改正，可以处二万元以上十万元以下的罚款；情节严重的，处十万元以上五十万元以下的罚款：",
             "children": [
               {
-                "parentMark": "第六章",
+                "__parentId": "hITJQm1BRDO6WuTsG8VWq",
+                "parentMark": "第八十一条",
+                "__id": "HTYcudYAH1lFHBlx8MweL",
+                "order": 241,
+                "mark": "（一）",
                 "_text": "（一）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "HTYcudYAH1lFHBlx8MweL",
+                    "parentMark": "（一）",
+                    "__id": "tKlYOOJvJvREw_VvzICV7",
+                    "order": 242,
                     "_text": "未在首页显著位置持续公示平台服务协议、交易规则信息或者上述信息的链接标识的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "hITJQm1BRDO6WuTsG8VWq",
+                "parentMark": "第八十一条",
+                "__id": "zVbpEf4FS1zwlgZf507jH",
+                "order": 243,
+                "mark": "（二）",
                 "_text": "（二）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "zVbpEf4FS1zwlgZf507jH",
+                    "parentMark": "（二）",
+                    "__id": "1e1FjzKK~rkZbA7~1dfFy",
+                    "order": 244,
                     "_text": "修改交易规则未在首页显著位置公开征求意见，未按照规定的时间提前公示修改内容，或者阻止平台内经营者退出的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "hITJQm1BRDO6WuTsG8VWq",
+                "parentMark": "第八十一条",
+                "__id": "VKJb~Kx9wDGrGrrMg2zHz",
+                "order": 245,
+                "mark": "（三）",
                 "_text": "（三）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "VKJb~Kx9wDGrGrrMg2zHz",
+                    "parentMark": "（三）",
+                    "__id": "sTPC7SCFwFOKqvR1FBT9G",
+                    "order": 246,
                     "_text": "未以显著方式区分标记自营业务和平台内经营者开展的业务的；",
                     "children": []
                   }
                 ]
               },
               {
-                "parentMark": "第六章",
+                "__parentId": "hITJQm1BRDO6WuTsG8VWq",
+                "parentMark": "第八十一条",
+                "__id": "GYcu3hp1bM0fCOrCrVI4q",
+                "order": 247,
+                "mark": "（四）",
                 "_text": "（四）",
                 "children": [
                   {
-                    "parentMark": "第六章",
+                    "__parentId": "GYcu3hp1bM0fCOrCrVI4q",
+                    "parentMark": "（四）",
+                    "__id": "gUq6F2ZbfMu1jyUBCpAiZ",
+                    "order": 248,
                     "_text": "未为消费者提供对平台内销售的商品或者提供的服务进行评价的途径，或者擅自删除消费者的评价的。",
                     "children": []
                   }
@@ -1352,84 +2247,143 @@
             ]
           },
           {
-            "parentMark": "第六章",
+            "__parentId": "d49vkp0qVRvFa1hthEmZl",
+            "parentMark": "第八十一条",
+            "__id": "OIRwOR28nXTBilxV9XCDF",
+            "order": 249,
             "_text": "电子商务平台经营者违反本法第四十条规定，对竞价排名的商品或者服务未显著标明“广告”的，依照《中华人民共和国广告法》的规定处罚。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "OWpTarWnjMlIw2pkRO3m4",
+        "order": 250,
+        "mark": "第八十二条",
+        "subject": "",
         "_text": "第八十二条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "OWpTarWnjMlIw2pkRO3m4",
+            "parentMark": "第八十二条",
+            "__id": "oK_WRQ0wg6hPout9T_s8W",
+            "order": 251,
             "_text": "电子商务平台经营者违反本法第三十五条规定，对平台内经营者在平台内的交易、交易价格或者与其他经营者的交易等进行不合理限制或者附加不合理条件，或者向平台内经营者收取不合理费用的，由市场监督管理部门责令限期改正，可以处五万元以上五十万元以下的罚款；情节严重的，处五十万元以上二百万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "rCNHI00glyzdy5h_OiBoS",
+        "order": 252,
+        "mark": "第八十三条",
+        "subject": "",
         "_text": "第八十三条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "rCNHI00glyzdy5h_OiBoS",
+            "parentMark": "第八十三条",
+            "__id": "JtVmKavg1vUTkuofdHZXV",
+            "order": 253,
             "_text": "电子商务平台经营者违反本法第三十八条规定，对平台内经营者侵害消费者合法权益行为未采取必要措施，或者对平台内经营者未尽到资质资格审核义务，或者对消费者未尽到安全保障义务的，由市场监督管理部门责令限期改正，可以处五万元以上五十万元以下的罚款；情节严重的，责令停业整顿，并处五十万元以上二百万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "~hRjL~JAblUG8yVESCqvq",
+        "order": 254,
+        "mark": "第八十四条",
+        "subject": "",
         "_text": "第八十四条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "~hRjL~JAblUG8yVESCqvq",
+            "parentMark": "第八十四条",
+            "__id": "ChqWkVCflPvaWUnqQX7s6",
+            "order": 255,
             "_text": "电子商务平台经营者违反本法第四十二条、第四十五条规定，对平台内经营者实施侵犯知识产权行为未依法采取必要措施的，由有关知识产权行政部门责令限期改正；逾期不改正的，处五万元以上五十万元以下的罚款；情节严重的，处五十万元以上二百万元以下的罚款。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "5eiIn9JKmGECUdZTORHjM",
+        "order": 256,
+        "mark": "第八十五条",
+        "subject": "",
         "_text": "第八十五条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "5eiIn9JKmGECUdZTORHjM",
+            "parentMark": "第八十五条",
+            "__id": "ZyELW8D_cAm8UuZyt7Dss",
+            "order": 257,
             "_text": "电子商务经营者违反本法规定，销售的商品或者提供的服务不符合保障人身、财产安全的要求，实施虚假或者引人误解的商业宣传等不正当竞争行为，滥用市场支配地位，或者实施侵犯知识产权、侵害消费者权益等行为的，依照有关法律的规定处罚。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "I3wStMaszNbl5nbSVjh18",
+        "order": 258,
+        "mark": "第八十六条",
+        "subject": "",
         "_text": "第八十六条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "I3wStMaszNbl5nbSVjh18",
+            "parentMark": "第八十六条",
+            "__id": "HMODgza_ufMNiugRAsmpZ",
+            "order": 259,
             "_text": "电子商务经营者有本法规定的违法行为的，依照有关法律、行政法规的规定记入信用档案，并予以公示。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "qEy4mjr7hGjrMNQvGPf9G",
+        "order": 260,
+        "mark": "第八十七条",
+        "subject": "",
         "_text": "第八十七条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "qEy4mjr7hGjrMNQvGPf9G",
+            "parentMark": "第八十七条",
+            "__id": "LFqMQcnN1~~6dO_MxoLI0",
+            "order": 261,
             "_text": "依法负有电子商务监督管理职责的部门的工作人员，玩忽职守、滥用职权、徇私舞弊，或者泄露、出售或者非法向他人提供在履行职责中所知悉的个人信息、隐私和商业秘密的，依法追究法律责任。",
             "children": []
           }
         ]
       },
       {
+        "__parentId": "KjkVHnc4p2bxfmIpmgvyL",
         "parentMark": "第六章",
+        "__id": "mNfCY7tprA8aoJ3P0As7d",
+        "order": 262,
+        "mark": "第八十八条",
+        "subject": "",
         "_text": "第八十八条",
         "children": [
           {
-            "parentMark": "第六章",
+            "__parentId": "mNfCY7tprA8aoJ3P0As7d",
+            "parentMark": "第八十八条",
+            "__id": "qWjpYpwRf2nOUqOZmquFs",
+            "order": 263,
             "_text": "违反本法规定，构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。",
             "children": []
           }
@@ -1438,16 +2392,26 @@
     ]
   },
   {
+    "__id": "fIgKVAlMwQb2r7LdGNSif",
+    "order": 264,
     "mark": "第七章",
     "subject": "附则",
     "_text": "第七章附则",
     "children": [
       {
+        "__parentId": "fIgKVAlMwQb2r7LdGNSif",
         "parentMark": "第七章",
+        "__id": "6XjqbFws2irVo2wCv59P2",
+        "order": 265,
+        "mark": "第八十九条",
+        "subject": "",
         "_text": "第八十九条",
         "children": [
           {
-            "parentMark": "第七章",
+            "__parentId": "6XjqbFws2irVo2wCv59P2",
+            "parentMark": "第八十九条",
+            "__id": "1rGYYzar20AFDwRO7CGFz",
+            "order": 266,
             "_text": "本法自2019年1月1日起施行。",
             "children": []
           }

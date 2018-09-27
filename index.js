@@ -1,6 +1,7 @@
 const _ = require('lodash')
 const indent2obj = require('indent2obj')
 const traverse = require('traverse')
+const nanoid = require('nanoid')
 
 indent2obj.keys = {
   name: "_text",
@@ -8,12 +9,14 @@ indent2obj.keys = {
 }
 
 module.exports = function (file, options = {}) {
+  let order = 1
+
   const REGEX0 = /(^第[零一二三四五六七八九十百]+?[条])|(^（[零一二三四五六七八九十百]+?）)|(^\([零一二三四五六七八九十百]+?\))/
   const REGEX1 = /(^第[零一二三四五六七八九十百]+?[章节条])|(^（[零一二三四五六七八九十百]+?）)|(^\([零一二三四五六七八九十百]+?\))/
   const REGEX2 = /(^第[零一二三四五六七八九十百]+?([章节条]))/
   const REGEX3 = /(^（[零一二三四五六七八九十百]+?）)|(^\([零一二三四五六七八九十百]+?\))/
 
-  const REGEX4 = /(^第[零一二三四五六七八九十百]+?[章节])(.+)/
+  const REGEX4 = /(^第[零一二三四五六七八九十百]+?[章节条])(.*)|(^（[零一二三四五六七八九十百]+?）)|(^\([零一二三四五六七八九十百]+?\))/
 
   const nodes = _.chain(file)
     .split('\n')
@@ -69,13 +72,21 @@ module.exports = function (file, options = {}) {
   if (options.indentText) {
     return nodes.join('\n')
   } else {
-
     const parse1 = traverse(indent2obj(nodes.join('\n'))).map(function(node) {
-      if (this.notLeaf && _.isPlainObject(node) && REGEX4.test(node._text)) {
-        const parsed = node._text.match(REGEX4)
+      if (_.isPlainObject(node)) {
+        const data = {
+          __id: nanoid(),
+          order: order++,
+        }
+
+        if (REGEX4.test(node._text)) {
+          const parsed = node._text.match(REGEX4)
+          data.mark = parsed[1] || parsed[0]
+          data.subject = parsed[2]
+        }
+
         this.update({
-          mark: parsed[1],
-          subject: parsed[2],
+          ...data,
           ...node,
         })
       }
@@ -83,12 +94,27 @@ module.exports = function (file, options = {}) {
 
     const parse2 = traverse(parse1).map(function(node) {
       if (_.isPlainObject(node)) {
+        const data = {}
+
+        data.__parentId = findParentId({ ctx: this })
+        data.parentMark = findParentMark({ ctx: this })
+
         this.update({
-          parentMark: findParentMark({ ctx: this }),
+          ...data,
           ...node,
         })
       }
     })
+
+    if (options.flat) {
+      let flatlist = []
+      const parse3 = traverse(parse2).map(function(node) {
+        if (_.isPlainObject(node)) {
+          flatlist.push(_.omit(node, 'children'))
+        }
+      })
+      return flatlist
+    }
 
     return parse2
   }
@@ -96,12 +122,34 @@ module.exports = function (file, options = {}) {
   function findParentMark({ ctx }) {
     if (!ctx.parent) return
     const isPlainObject = _.isPlainObject(_.get(ctx, 'parent.node'))
-    const mark = _.get(ctx, 'parent.node.mark')
-    if (isPlainObject && mark) {
-      return mark
+    const parentMark = _.get(ctx, 'parent.node.mark')
+    if (isPlainObject && parentMark) {
+      return parentMark
     } else {
       return findParentMark({ ctx: _.get(ctx, 'parent') })
     }
   }
-}
 
+  function findParentId({ ctx }) {
+    if (!ctx.parent) return
+    const isPlainObject = _.isPlainObject(_.get(ctx, 'parent.node'))
+    const __parentId = _.get(ctx, 'parent.node.__id')
+    if (isPlainObject && __parentId) {
+      return __parentId
+    } else {
+      return findParentId({ ctx: _.get(ctx, 'parent') })
+    }
+  }
+
+  function findPath(ctx, p) {
+    if (!ctx.parent) return
+    const isPlainObject = _.isPlainObject(_.get(ctx, 'parent.node'))
+    const parentMark = _.get(ctx, 'parent.node.mark')
+    if (isPlainObject && parentMark) {
+      p = p.concat(p)
+      return p
+    } else {
+      return findPath(_.get(ctx, 'parent'), p)
+    }
+  }
+}
